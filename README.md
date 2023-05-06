@@ -1,1 +1,8 @@
 # Predicting-General-Elections-2024
+The world today is full of emerging technologies and one of the most rising fields is Artificial Intelligence. Various new techniques have arisen in the field of machine learning as a result of improved computer capacity.
+We are working on experimental research which aims to predict the election results of the 2024 Indian General Elections/Lok Sabha Election which will we contested for 545 Lok Sabha Seats.
+To parametrize computations such as coalitions and swings on all seats, Data Analysis would be employed. After that, utilizing prior election data unique to relevant seats, Machine Learning methods such as Linear Regression, Naïve Bayes, Random Forest, Time Series etc. be used to determine the swing parameters.
+To reckon emotions important to the elections, a huge corpus of recent publications and/or twitter tweets can be used. We may be able to apply swings to the vote shares of each party in each constituency and produce viable projections with the necessary biases based on subjective data.
+Various parameters will be taken in account to thoroughly analyze the data to get the right swings and the mindset of the respondent to know what their needs are, reasons to switch and are they satisfied with the current candidate and whether their conditions are met or not et cetera.
+Our vision is to detect the popular trends to get insights into existing potential voters. Determine voter’s response to promote cross opportunities. Attract, Retain & Grow improving decision making & better drive decisions.
+Keywords: Election Forecasting, Machine Learning, Swings, Data Analysis, Linear Regression, Lok Sabha
